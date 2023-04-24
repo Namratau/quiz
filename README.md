@@ -9,8 +9,6 @@ A quiz app in flutter.
 - 3 difficulty levels
 - *MCQ* or *True-False* type questions
 - 45 seconds timer for every question
-
-
 - Using [Open Trivia Database](https://opentdb.com/)
 **Quiz API** to get the questions.
 
